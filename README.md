@@ -1,23 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oleksii</h1>
 <h3 align="center">A passionate backend developer and security researcher from Ukraine</h3>
 
-- 🔭 I’m currently working on **volonteur project which related with searching of data.**
-
 - 🌱 I’m currently learning **DevOps, Performance Engineering, Kotlin**
-
-- 👯 I’m looking to collaborate on **some Kotlin/Java/Go any other systen to work in team,**
-
-- 🤝 I’m looking for help with **AI startup**
-
-- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1b46rNz6h31D8PMwBRojcyPENX05CFt6GbzYGI2mc3tA/edit?usp=sharing](https://docs.google.com/document/d/1b46rNz6h31D8PMwBRojcyPENX05CFt6GbzYGI2mc3tA/edit?usp=sharing)
-
-- 💬 Ask me about **java, architecture, best practices**
-
 - 📫 How to reach me **aresnetsec@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hidoneko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hidoneko" height="30" width="40" /></a>
+<a href="https://t.me/aresvoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hidoneko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
