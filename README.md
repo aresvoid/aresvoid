@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Backend Developer & Security Researched</h3>
+<h3 align="center">I'm a backend developer & security researched</h3>
 
 - 🌱 I’m currently learning **DevOps, Performance Engineering, Golang, Malwaring**
 - 📫 How to reach me **aresnetsec@pm.me** **https://t.me/neurolimitless**
