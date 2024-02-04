@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Oleksii</h1>
-<h3 align="center">A passionate backend developer and security researcher from Ukraine</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Backend Developer & Security Researched</h3>
 
-- 🌱 I’m currently learning **DevOps, Performance Engineering, Kotlin**
-- 📫 How to reach me **aresnetsec@pm.me**
+- 🌱 I’m currently learning **DevOps, Performance Engineering, Golang, Malwaring**
+- 📫 How to reach me **aresnetsec@pm.me** **https://t.me/neurolimitless**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
