@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm a backend developer & security researched</h3>
+<h3 align="center">I'm a nobody in a nowhere</h3>
 
-- 🌱 I’m currently learning **DevOps, Performance Engineering, Golang, Malwaring**
-- 📫 How to reach me **aresnetsec@pm.me**
+- 🎯 **DevOps, Performance Engineering, Development (kotlin/go/cpp), Security Researches**
+- 📫 **aresnetsec@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
